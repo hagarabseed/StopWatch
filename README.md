@@ -9,7 +9,8 @@ A precise, real-time stopwatch application built with **C++** using the **Graphi
 - **Detailed Display:** Shows time in Hours, Minutes, Seconds, and Milliseconds.
 
 ## 📸 Preview
-![Stopwatch Screenshot](stop_watch_photo.jpg)
+![Stopwatch Screenshot FV](stop_watch_photo.jpg)
+![Stopwatch Screenshot LV](stopwatch_LV.jpg)
 
 ## 🛠️ How it Works
 1. **Time Logic:** The program captures the `startTime` when you click Start and calculates the `elapsed` duration continuously.
